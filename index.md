@@ -28,6 +28,8 @@ EPSRC Our Health - NHS Lothian Student Researcher
 
 Under the supervision of Dr Helen Szoor-McElhinney
 
+Contributing Author of NHS Lothian Remote Outpatient Hospital Care Report 2022 | Exploring the Impact of Remote Appointments on Multi-Morbidity Patients within NHS Lothian Outpatient and GP Contexts (Lothian Health & Care Professions Research Conference)
+
 ### Specialized in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
