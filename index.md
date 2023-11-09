@@ -7,7 +7,7 @@ BSc Neuroscience (Hons) Student at the University of Edinburgh
 
 <div id="webaddress">
 <a href="hwajinshin@icloud.com">hwajinshin@icloud.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/hwajin-shin-227276200">LinkedIn</a>
 </div>
 
 
