@@ -11,7 +11,7 @@ BSc Neuroscience (Hons) Student at the University of Edinburgh
 </div>
 
 
-## Currently
+## Research Experience
 
 Standing on the shoulders of giants
 
@@ -27,19 +27,11 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`2020-2024`
+`2020 - 2024`
 __University of Edinburgh__
 
 `2022 - 2023`
 __University College Dublin__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
 
 
 ## Awards
@@ -55,7 +47,7 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Conference
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
