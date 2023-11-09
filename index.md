@@ -6,8 +6,8 @@ title: Hwajin Shin's CV
 BSc Neuroscience (Hons) Student at the University of Edinburgh
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="hwajinshin@icloud.com">hwajinshin@icloud.com</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">LinkedIn</a>
 </div>
 
 
@@ -27,11 +27,11 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-2024`
+__University of Edinburgh__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2022 - 2023`
+__University College Dublin__
 
 - Sizar
 
