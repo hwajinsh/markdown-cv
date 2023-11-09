@@ -15,14 +15,17 @@ BSc Neuroscience (Hons) Student at the University of Edinburgh
 
 `Expected: Jan 2024 - May 2024`
 Exploring sensorimotor deficits in a mouse model of Rett syndrome
+
 Under the supervision of Prof Ian Duguid
 
 `Aug 2023 - Present`
 EPSRC Our Health - Lung Power Student Researcher
+
 Under the supervision of Dr Helen Szoor-McElhinney
 
 `Aug 2022 - Nov 2023`
 EPSRC Our Health - NHS Lothian Student Researcher
+
 Under the supervision of Dr Helen Szoor-McElhinney
 
 ### Specialized in
