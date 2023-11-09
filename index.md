@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Hwajin Shin's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Hwajin Shin
+BSc Neuroscience (Hons) Student at the University of Edinburgh
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
