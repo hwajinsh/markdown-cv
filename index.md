@@ -33,7 +33,7 @@ __EPSRC Our Health - Lung Power Student Researcher__
 
 Under the supervision of Dr Helen Szoor-McElhinney
 
-`Jul 2023 - Jul 2023`
+`Jul 2023`
 __Exploring Neural Response Changes Over Time with Image Presentation__
 
 Completed as a course project for <a href="https://portal.neuromatchacademy.org/certificate/58b76ab7-d0b1-40b8-99b2-1d26763916ac"> Neuromatch Academy</a>
@@ -50,10 +50,12 @@ Under the supervision of Dr Helen Szoor-McElhinney
 
 `Aug 2023 - Present`
 __Biomedical Sciences Peer Assisted Learning Scheme Leader__
+
 The University of Edinburgh
 
-Jun 2023
+`Jun 2023`
 __Student Worker Programme Team Leader__
+
 Turing Fest
 
 ### Specialized in
