@@ -10,6 +10,13 @@ BSc Neuroscience (Hons) Student at the University of Edinburgh
 | <a href="https://www.linkedin.com/in/hwajin-shin-227276200">LinkedIn</a>
 </div>
 
+## Education
+
+`2020 - 2024`
+__University of Edinburgh__
+
+`2022 - 2023`
+__University College Dublin__
 
 ## Research Experience
 
@@ -22,6 +29,11 @@ Under the supervision of Prof Ian Duguid
 EPSRC Our Health - Lung Power Student Researcher
 
 Under the supervision of Dr Helen Szoor-McElhinney
+
+`Jul 2023 - Jul 2023`
+Exploring Neural Response Changes Over Time with Image Presentation
+
+Completed as a part of <a href="https://portal.neuromatchacademy.org/certificate/58b76ab7-d0b1-40b8-99b2-1d26763916ac">course project for Neuromatch Academy</a>
 
 `Aug 2022 - Nov 2023`
 EPSRC Our Health - NHS Lothian Student Researcher
@@ -39,15 +51,6 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`2020 - 2024`
-__University of Edinburgh__
-
-`2022 - 2023`
-__University College Dublin__
 
 
 ## Awards
