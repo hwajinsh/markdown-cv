@@ -33,7 +33,7 @@ Under the supervision of Dr Helen Szoor-McElhinney
 `Jul 2023 - Jul 2023`
 Exploring Neural Response Changes Over Time with Image Presentation
 
-Completed as a part of <a href="https://portal.neuromatchacademy.org/certificate/58b76ab7-d0b1-40b8-99b2-1d26763916ac">course project for Neuromatch Academy</a>
+Completed as a course project for <a href="https://portal.neuromatchacademy.org/certificate/58b76ab7-d0b1-40b8-99b2-1d26763916ac"> Neuromatch Academy</a>
 
 `Aug 2022 - Nov 2023`
 EPSRC Our Health - NHS Lothian Student Researcher
