@@ -13,13 +13,13 @@ BSc Neuroscience (Hons) Student at the University of Edinburgh
 ## Education
 
 `2017 - 2020`
-__Hankuk Academy of Foreign Studies__
+__High School Diploma, International Programme, Hankuk Academy of Foreign Studies__
 
 `2020 - 2024`
-__University of Edinburgh__ 
+__Bachelor of Science - BS, Neuroscience (Hons), University of Edinburgh__ 
 
 `2022 - 2023`
-__University College Dublin__
+__Erasmus Exchange, University College Dublin__
 
 ## Research Experience
 
@@ -33,6 +33,8 @@ __EPSRC Our Health - Lung Power Student Researcher__
 
 Under the supervision of Dr Helen Szoor-McElhinney
 
+- Designing a regional COPD service (such as digital health reports and COPD self-manage app) that is patient-centred, clinically efficient and effective, sustainable, and enables collaborative working between NHS, social care, and charity partners 
+
 `Jul 2023`
 __Exploring Neural Response Changes Over Time with Image Presentation__
 
@@ -41,8 +43,9 @@ Completed as a course project for <a href="https://portal.neuromatchacademy.org/
 `Aug 2022 - Nov 2023`
 __EPSRC Our Health - NHS Lothian Student Researcher__
 
-Under the supervision of Dr Helen Szoor-McElhinney
+Under the supervision of Dr Helen Szoor-McElhinney, Partners with the NHS Age and Health Strategic planning team
 
+- Producing a patient-led research project that explores, with patients living with frailty and key workers who support them, the benefits and challenges associated with the use of digital solutions for the improvement of the out-patient care pathway 
 - Contributing Author of NHS Lothian Remote Outpatient Hospital Care Report 2022
 - Exploring the Impact of Remote Appointments on Multi-Morbidity Patients within NHS Lothian Outpatient and GP Contexts (Lothian Health & Care Professions Research Conference)
 
@@ -51,61 +54,37 @@ Under the supervision of Dr Helen Szoor-McElhinney
 `Aug 2023 - Present`
 __Biomedical Sciences Peer Assisted Learning Scheme Leader__
 
-The University of Edinburgh
+Edinburgh Medical School, University of Edinburgh
+
+- AAA
 
 `Jun 2023`
 __Student Worker Programme Team Leader__
 
 Turing Fest
 
-### Specialized in
+- Managing the expo and experience team of Europe’s leading cross-disciplinary tech conference | Supporting online and in-person training events | Running speed networking | Managing the layout of the expo and directing attendees around the expo
+- Previous Student Programme Participant / Turing TV Host (Oct 2021 - Nov 2021)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Feb 2023 - Jun 2023`
+__Student As Change Agent for Waverley Care and UNESCO City of Literature__
 
+Student As Change Agent, University of Edinburgh
 
-### Research interests
+- Working in a multidisciplinary team and collaborating with different industry partners (Waverley Care and UNESCO City of Literature) to present potential interventions tackling the most pressing issues within each sector
+- Awarded Edinburgh Award for Change Agents
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Oct 2020 - Nov 2021`
+__Resident Assistant__
 
+University of Edinburgh – Accommodation Services
+
+- Providing advice and support for students living in student accommodation | Organising a range of single and multi-site events and activities to support residents’ social and academic progress | Undertaking duty hours and responding to queries and emergencies
+- Awarded the Edinburgh Award (Resident Assistants)
 
 ## Language
 
 English (Fluent, Experience in ESL teaching), Korean (Native), French (Elementary)
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Conference
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
 
 <!-- ### Footer
 
