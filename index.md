@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Hwajin Shin's CV
+title: Hwajin Shin's CV (Switzerland)
 ---
 # Hwajin Shin
 BSc Neuroscience (Hons) Student at the University of Edinburgh
@@ -12,8 +12,11 @@ BSc Neuroscience (Hons) Student at the University of Edinburgh
 
 ## Education
 
+`2017 - 2020`
+__Hankuk Academy of Foreign Studies__
+
 `2020 - 2024`
-__University of Edinburgh__
+__University of Edinburgh__ 
 
 `2022 - 2023`
 __University College Dublin__
@@ -21,27 +24,37 @@ __University College Dublin__
 ## Research Experience
 
 `Expected: Jan 2024 - May 2024`
-Exploring sensorimotor deficits in a mouse model of Rett syndrome
+__Exploring sensorimotor deficits in a mouse model of Rett syndrome__
 
 Under the supervision of Prof Ian Duguid
 
 `Aug 2023 - Present`
-EPSRC Our Health - Lung Power Student Researcher
+__EPSRC Our Health - Lung Power Student Researcher__
 
 Under the supervision of Dr Helen Szoor-McElhinney
 
 `Jul 2023 - Jul 2023`
-Exploring Neural Response Changes Over Time with Image Presentation
+__Exploring Neural Response Changes Over Time with Image Presentation__
 
 Completed as a course project for <a href="https://portal.neuromatchacademy.org/certificate/58b76ab7-d0b1-40b8-99b2-1d26763916ac"> Neuromatch Academy</a>
 
 `Aug 2022 - Nov 2023`
-EPSRC Our Health - NHS Lothian Student Researcher
+__EPSRC Our Health - NHS Lothian Student Researcher__
 
 Under the supervision of Dr Helen Szoor-McElhinney
 
 - Contributing Author of NHS Lothian Remote Outpatient Hospital Care Report 2022
 - Exploring the Impact of Remote Appointments on Multi-Morbidity Patients within NHS Lothian Outpatient and GP Contexts (Lothian Health & Care Professions Research Conference)
+
+## Extracurricular Activities
+
+`Aug 2023 - Present`
+__Biomedical Sciences Peer Assisted Learning Scheme Leader__
+The University of Edinburgh
+
+Jun 2023
+__Student Worker Programme Team Leader__
+Turing Fest
 
 ### Specialized in
 
@@ -53,12 +66,9 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Awards
+## Language
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+English (Fluent, Experience in ESL teaching), Korean (Native), French (Elementary)
 
 
 
