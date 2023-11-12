@@ -23,23 +23,6 @@ __Erasmus Exchange, University College Dublin__
 
 ## Research Experience
 
-`Expected: Jan 2024 - May 2024`
-__Exploring sensorimotor deficits in a mouse model of Rett syndrome__
-
-Under the supervision of Prof Ian Duguid
-
-`Aug 2023 - Present`
-__EPSRC Our Health - Lung Power Student Researcher__
-
-Under the supervision of Dr Helen Szoor-McElhinney
-
-- Designing a regional COPD service (such as digital health reports and COPD self-manage app) that is patient-centred, clinically efficient and effective, sustainable, and enables collaborative working between NHS, social care, and charity partners 
-
-`Jul 2023`
-__Exploring Neural Response Changes Over Time with Image Presentation__
-
-Completed as a course project for <a href="https://portal.neuromatchacademy.org/certificate/58b76ab7-d0b1-40b8-99b2-1d26763916ac"> Neuromatch Academy</a>
-
 `Aug 2022 - Nov 2023`
 __EPSRC Our Health - NHS Lothian Student Researcher__
 
@@ -48,6 +31,23 @@ Under the supervision of Dr Helen Szoor-McElhinney, Partners with the NHS Age an
 - Producing a patient-led research project that explores, with patients living with frailty and key workers who support them, the benefits and challenges associated with the use of digital solutions for the improvement of the out-patient care pathway 
 - Contributing Author of NHS Lothian Remote Outpatient Hospital Care Report 2022
 - Exploring the Impact of Remote Appointments on Multi-Morbidity Patients within NHS Lothian Outpatient and GP Contexts (Lothian Health & Care Professions Research Conference)
+
+`Jul 2023`
+__Exploring Neural Response Changes Over Time with Image Presentation__
+
+Completed as a course project for <a href="https://portal.neuromatchacademy.org/certificate/58b76ab7-d0b1-40b8-99b2-1d26763916ac"> Neuromatch Academy</a>
+
+`Aug 2023 - Present`
+__EPSRC Our Health - Lung Power Student Researcher__
+
+Under the supervision of Dr Helen Szoor-McElhinney
+
+- Designing a regional COPD service (such as digital health reports and COPD self-manage app) that is patient-centred, clinically efficient and effective, sustainable, and enables collaborative working between NHS, social care, and charity partners 
+
+`Expected: Jan 2024 - May 2024`
+__Exploring sensorimotor deficits in a mouse model of Rett syndrome__
+
+Under the supervision of Prof Ian Duguid
 
 ## Extracurricular Activities
 
@@ -81,6 +81,11 @@ University of Edinburgh – Accommodation Services
 
 - Providing advice and support for students living in student accommodation | Organising a range of single and multi-site events and activities to support residents’ social and academic progress | Undertaking duty hours and responding to queries and emergencies
 - Awarded the Edinburgh Award (Resident Assistants)
+
+## License and Certificates 
+
+Personal Licence - Ethics and National Legislation Training Certificate (Scottish Accreditation Board)
+Personal License A, B - Rodents Training Certificate (Scottish Accreditation Board)
 
 ## Language
 
