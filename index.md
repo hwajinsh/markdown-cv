@@ -23,6 +23,15 @@ __Erasmus Exchange, University College Dublin__
 
 ## Research Experience
 
+`Jan 2018 - Oct 2018`
+__International Genetically Engineered Machine (iGEM) 2018, <a href="https://2018.igem.org/Team:HAFS">Team HAFS</a>__
+
+Under the supervision of Prof Heejoon Myung and Jiyoung Choi
+
+- Developing minicell-based insulin delivery system of anti-diabetic peptide 
+- Awarded Bronze Prize
+- Nomination for Best Presentation, Best Poster, and Best Education & Public Engagement
+
 `Aug 2022 - Nov 2023`
 __EPSRC Our Health - NHS Lothian Student Researcher__
 
