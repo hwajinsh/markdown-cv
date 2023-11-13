@@ -89,7 +89,7 @@ HAFS Engineering Club - HAFS Lab
 - Participating in Open Portfolio Project and Joongang Daily Maker Programme | Collaborating with the provincial police and promoted Red-Circle project to discourage illegal (drone) filming | Partook in designing drones for tagging wild animals
 
 `Mar 2017 - Feb 2020`
-__President __
+__President__
 
 HAFS Hospice Society - HAFSpice, Partnership with Yongin Sammeul Hospice
 
