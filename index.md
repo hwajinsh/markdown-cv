@@ -131,7 +131,7 @@ __Biomedical Sciences Peer Assisted Learning Scheme Leader__
 
 Edinburgh Medical School, University of Edinburgh
 
-- AAA
+- Facilitating academic sessions covering a range of topics such as revision, necessary subject skills, university inductions, and assessment practices for first year Biomedical Sciences students 
 
 ## License and Certificates 
 
