@@ -81,17 +81,24 @@ Under the supervision of Prof Ian Duguid
 
 ## Extracurricular Activities
 
-`Mar 2017 - Feb 2020`
-__President of HAFS Hospice Society - HAFSpice__
+`Mar 2017 - Feb 2019`
+__Product Manager__
 
-HAFS, Partnership with Yongin Sammeul Hospice
+HAFS Engineering Club - HAFS Lab
+
+- Participating in Open Portfolio Project and Joongang Daily Maker Programme | Collaborating with the provincial police and promoted Red-Circle project to discourage illegal (drone) filming | Partook in designing drones for tagging wild animals
+
+`Mar 2017 - Feb 2020`
+__President __
+
+HAFS Hospice Society - HAFSpice, Partnership with Yongin Sammeul Hospice
 
 - Leading in-school hospice volunteer club assisting patient care services at a local hospice centre 
 
 `Dec 2017 - Feb 2020`
-__Head Coordinator and Mentor of HAFS Social Responsibility Camp__
+__Head Coordinator and Mentor__
 
-Funded by HAFS, Partnership with 4 youth welfare centres
+HAFS Social Responsibility Camp, Funded by HAFS, Partnership with 4 youth welfare centres
 
 - Organising week-long mentoring camps for primary school children to provide educational equity
 
@@ -109,6 +116,14 @@ University of Edinburgh – Accommodation Services
 
 - Providing advice and support for students living in student accommodation | Organising a range of single and multi-site events and activities to support residents’ social and academic progress | Undertaking duty hours and responding to queries and emergencies
 - Awarded the Edinburgh Award (Resident Assistants)
+
+`Nov 2021`
+__National Student One Health Conference__
+
+Edinburgh University One Health Conference
+
+- __AAA__
+- Awarded Best Degelate for UK Model WHO Workshop
 
 `Feb 2023 - Jun 2023`
 __Student As Change Agent for Waverley Care and UNESCO City of Literature__
@@ -136,6 +151,7 @@ Edinburgh Medical School, University of Edinburgh
 ## License and Certificates 
 
 Personal Licence - Ethics and National Legislation Training Certificate (Scottish Accreditation Board)
+
 Personal License A, B - Rodents Training Certificate (Scottish Accreditation Board)
 
 ## Language
