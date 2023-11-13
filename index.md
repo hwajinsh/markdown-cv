@@ -96,9 +96,9 @@ Funded by HAFS, Partnership with 4 youth welfare centres
 - Organising week-long mentoring camps for primary school children to provide educational equity
 
 `Jul 2018 - Sep 2018`
-__Youth Leader (at Korean Central Dementia Centre)__
+__Youth Leader__
 
-Korean Ministry of Health and Welfare (MOHW)
+Korean Central Dementia Centre, Korean Ministry of Health and Welfare (MOHW)
 
 - Completing weekly training sessions for the Youth Leader position | Organising offline campaigns, creating Facebook card news and YouTube videos to promote national support services for dementia | Provided grounds for writing a comprehensive review of the dementia care facilities in Busan
 
