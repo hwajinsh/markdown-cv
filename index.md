@@ -65,7 +65,7 @@ Under the supervision of Dr Helen Szoor-McElhinney, Partners with the NHS Age an
 `Jul 2023`
 __Exploring Neural Response Changes Over Time with Image Presentation__
 
-Completed as a course project for <a href="https://portal.neuromatchacademy.org/certificate/58b76ab7-d0b1-40b8-99b2-1d26763916ac"> Neuromatch Academy</a>
+Completed as a course project for <a href="https://portal.neuromatchacademy.org/certificate/58b76ab7-d0b1-40b8-99b2-1d26763916ac"> Neuromatch Academy for Computational Neuroscience</a>
 
 `Aug 2023 - Present`
 __EPSRC Our Health - Lung Power Student Researcher__
