@@ -67,6 +67,8 @@ __Exploring Neural Response Changes Over Time with Image Presentation__
 
 Completed as a course project for <a href="https://portal.neuromatchacademy.org/certificate/58b76ab7-d0b1-40b8-99b2-1d26763916ac"> Neuromatch Academy for Computational Neuroscience</a>
 
+- Conducted a study on neural response changes using the Allen Brain Observatory Visual Coding dataset, focusing on VIP and SST neurons in mice exposed to novel and familiar visual stimuli | Employing Granger Causality and correlation tests to assess individual neuron activity and exploring connectivity between neurons, examining signal propagation across cortical layers, and correlating inhibitory cell dynamics with mouse running speed
+
 `Aug 2023 - Present`
 __EPSRC Our Health - Lung Power Student Researcher__
 
@@ -77,7 +79,9 @@ Under the supervision of Dr Helen Szoor-McElhinney
 `Expected: Jan 2024 - May 2024`
 __Exploring sensorimotor deficits in a mouse model of Rett syndrome__
 
-Under the supervision of Prof Ian Duguid
+Under the supervision of Prof Ian Duguid, Dissertation
+
+- Underraking a lab-based project employing high-speed video imaging, quantitative animal behaviour, DeepLabCut tools to explore complex motor behaviour in mice models of Rett syndrome 
 
 ## Extracurricular Activities
 
@@ -122,7 +126,7 @@ __National Student One Health Conference__
 
 Edinburgh University One Health Conference
 
-- __AAA__
+- National conference addressing One Health perspectives on antimicrobial and antibiotic resistance exploring topics spanning agriculture, healthcare, and water and sanitation
 - Awarded Best Degelate for UK Model WHO Workshop
 
 `Feb 2023 - Jun 2023`
